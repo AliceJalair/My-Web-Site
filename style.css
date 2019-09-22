@@ -92,7 +92,7 @@ nav a:hover{
 .main-visual{
     width: 100%;
     height: 500px;
-    background:#fff url(main2.jpg) 0 0 no-repeat;
+    background:#fff url(s_main2.jpg) 0 0 no-repeat;
     background-size:cover;
     margin-bottom: 32px;
     padding-top: 60px;
@@ -107,6 +107,7 @@ nav a:hover{
 
 #main{
     width: 608px;
+    height:1850px;
     margin:0 auto;
     float: left;
     overflow: hidden;
@@ -141,6 +142,7 @@ nav a:hover{
     border-bottom: 1px solid #eee;
     padding:16px 0;
     overflow: hidden;
+    
 }
 
 .content:last-child{
@@ -272,6 +274,7 @@ a.fbbutton:hover .edge{
     margin: 20px 12px;
     background: #fff;
     padding:8px;
+    margin-bottom: 200px;
     
 }
 
@@ -336,7 +339,7 @@ a.fbbutton:hover .edge{
     -o-transform: translate(8px, 8px);
     transform: translate(8px, 8px);
     
-    opacity: 1;
+    opacity: 0.8;
 }
 /*
 .animation2{
@@ -506,7 +509,7 @@ a.lambbutton:hover .edge{
     padding:10px;
     position: absolute;
     right:100px;
-    top:600px;
+    top:780px;
     text-decoration: none;
     transition:0.5s;
 }
@@ -520,6 +523,7 @@ a.lambbutton:hover .edge{
 
 #contents4{
     position: relative;
+    padding-bottom: 200px;
 }
 
 
